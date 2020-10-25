@@ -1,0 +1,66 @@
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csproj.CoreCompileInputs.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojAssemblyReference.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csproj.CoreCompileInputs.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojAssemblyReference.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SchoolModels\bin\Debug\SchoolModels.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csprojAssemblyReference.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.csproj.CoreCompileInputs.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SchoolModels\obj\Debug\SchoolModels.pdb

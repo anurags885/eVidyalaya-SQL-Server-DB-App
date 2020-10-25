@@ -1,0 +1,1287 @@
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\AppImage\help.png
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\eVidyalaya.exe.config
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\eVidyalaya.exe.manifest
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\eVidyalaya.application
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\eVidyalaya.exe
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\eVidyalaya.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\EPPlus.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\itextsharp.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Models.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Repository.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SqlService.Service.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\stdole.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Repository.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Models.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\EPPlus.xml
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\itextsharp.xml
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SqlService.Service.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.exe.manifest
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.application
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.exe
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\AppImage\eVidyalaya.png
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\AppImage\help.png
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\eVidyalaya.exe.manifest
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\eVidyalaya.application
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\EPPlus.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\itextsharp.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\School.App.Models.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\SqlService.Service.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\stdole.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\EPPlus.xml
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\itextsharp.xml
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\bin\Debug\SqlService.Service.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.exe.manifest
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.application
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+D:\Development\1. Windows.Form Project\eVidyalaya\eVidyalayaUI\obj\Debug\eVidyalaya.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\help.png
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.manifest
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.application
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\stdole.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.xml
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.xml
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe.manifest
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.application
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.pdb
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\help.png
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.manifest
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.application
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\stdole.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.xml
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.xml
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.pdb
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe.manifest
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.application
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+D:\software_project_development\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.pdb
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\help.png
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.manifest
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.application
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\stdole.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.xml
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.xml
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.pdb
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe.manifest
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.application
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+D:\code_repository\dot_net_repository\windows_form_project\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.pdb
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\help.png
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.manifest
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.application
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\stdole.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.xml
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.xml
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.pdb
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe.manifest
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.application
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+C:\Users\Anurag Singh\Desktop\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.pdb
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\help.png
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.manifest
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.application
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\stdole.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.xml
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.xml
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.pdb
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe.manifest
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.application
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+D:\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.pdb
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\eVidyalaya.png
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\AppImage\help.png
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\TempFolder\temp.txt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe.config
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.exe
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\eVidyalaya.pdb
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.dll
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Models.pdb
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\School.App.Repository.pdb
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\EPPlus.xml
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\itextsharp.xml
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\bin\Debug\SqlServer.Service.pdb
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csprojAssemblyReference.cache
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AboutPoductForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Fee_Generate_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Deposit_Fee_Multiple_Receipt.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Deposited_List_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Search_Previous_Dues_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.AdmissionFeeForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ClassFeeSettingForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ConnectionManagerForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.CustomMessageBox.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_Setting_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeePurchasesItem.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.PurchasesFeeReportForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DailyExpensesForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ExpensesReportForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.LeftNavForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_Fee_info_Report_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseDuesForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_All_Class_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Views.School.Send_SMS_To_Number_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportClassWiseStudentForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportDailyFeeCollectionFeeForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DatabaseBackUpForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.DepositFeeReceipt.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeDepositForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeSettingForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.FeeTypeForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.GenerateMonthlyFeeForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.MonthlyFeeReceiptForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.SchoolDetailsForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.ReportStudentPromotion.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentAdmissionForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Properties.Resources.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentFineForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.StudentPromotionForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.TransportChargesForm.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UIParent.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.UserLogin.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.Student_TC_Form.resources
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.GenerateResource.cache
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CoreCompileInputs.cache
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.csproj.CopyComplete
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.exe
+D:\Evidyalaya\evidyalaya-sql-server-db-app_30_sep_2020\eVidyalaya-SQL-Server-DB-App\eVidyalayaUI\obj\Debug\eVidyalaya.pdb

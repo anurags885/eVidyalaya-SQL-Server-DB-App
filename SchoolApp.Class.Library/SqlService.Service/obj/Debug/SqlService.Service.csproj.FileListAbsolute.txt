@@ -1,0 +1,17 @@
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlService.Service.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlService.Service.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlService.Service.csproj.CoreCompileInputs.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlService.Service.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlService.Service.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya\SchoolApp.Class.Library\SqlService.Service\bin\Debug\SqlService.Service.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\SchoolApp.Class.Library\SqlService.Service\bin\Debug\SqlService.Service.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.csprojAssemblyReference.cache
+D:\Development\1. Windows.Form Project\eVidyalaya\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.csproj.CoreCompileInputs.cache
+D:\Development\1. Windows.Form Project\eVidyalaya\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.dll
+D:\Development\1. Windows.Form Project\eVidyalaya\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\SchoolApp.Class.Library\SqlService.Service\bin\Debug\SqlService.Service.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\SchoolApp.Class.Library\SqlService.Service\bin\Debug\SqlService.Service.pdb
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.csprojAssemblyReference.cache
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.csproj.CoreCompileInputs.cache
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.dll
+D:\Development\1. Windows.Form Project\eVidyalaya-SQL-Server-DB-App\SchoolApp.Class.Library\SqlService.Service\obj\Debug\SqlService.Service.pdb

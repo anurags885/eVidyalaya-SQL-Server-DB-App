@@ -1,0 +1,1 @@
+﻿if %2 == “release” msiexec /a “%1CRRuntime_64bit_13_0_23.msi” /quiet /norestart /log “%1CRRuntime_64bit_13_0_23_install.log”

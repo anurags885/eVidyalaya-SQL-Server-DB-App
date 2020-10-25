@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DailyFeeCollection" targetNamespace="http://tempuri.org/DailyFeeCollection.xsd" xmlns:mstns="http://tempuri.org/DailyFeeCollection.xsd" xmlns="http://tempuri.org/DailyFeeCollection.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DailyFeeCollection" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DailyFeeCollection" msprop:Generator_UserDSName="DailyFeeCollection">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FeeCollection" msprop:Generator_TableClassName="FeeCollectionDataTable" msprop:Generator_TableVarName="tableFeeCollection" msprop:Generator_TablePropName="FeeCollection" msprop:Generator_RowDeletingName="FeeCollectionRowDeleting" msprop:Generator_RowChangingName="FeeCollectionRowChanging" msprop:Generator_RowEvHandlerName="FeeCollectionRowChangeEventHandler" msprop:Generator_RowDeletedName="FeeCollectionRowDeleted" msprop:Generator_UserTableName="FeeCollection" msprop:Generator_RowChangedName="FeeCollectionRowChanged" msprop:Generator_RowEvArgName="FeeCollectionRowChangeEvent" msprop:Generator_RowClassName="FeeCollectionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Student_Name" msprop:Generator_ColumnVarNameInTable="columnStudent_Name" msprop:Generator_ColumnPropNameInRow="Student_Name" msprop:Generator_ColumnPropNameInTable="Student_NameColumn" msprop:Generator_UserColumnName="Student_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Class_Name" msprop:Generator_ColumnVarNameInTable="columnClass_Name" msprop:Generator_ColumnPropNameInRow="Class_Name" msprop:Generator_ColumnPropNameInTable="Class_NameColumn" msprop:Generator_UserColumnName="Class_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Student_ID" msprop:Generator_ColumnVarNameInTable="columnStudent_ID" msprop:Generator_ColumnPropNameInRow="Student_ID" msprop:Generator_ColumnPropNameInTable="Student_IDColumn" msprop:Generator_UserColumnName="Student_ID" type="xs:long" minOccurs="0" />
+              <xs:element name="AmountDeposit" msprop:Generator_ColumnVarNameInTable="columnAmountDeposit" msprop:Generator_ColumnPropNameInRow="AmountDeposit" msprop:Generator_ColumnPropNameInTable="AmountDepositColumn" msprop:Generator_UserColumnName="AmountDeposit" type="xs:int" minOccurs="0" />
+              <xs:element name="Fee_Deposit_Type" msprop:Generator_ColumnVarNameInTable="columnFee_Deposit_Type" msprop:Generator_ColumnPropNameInRow="Fee_Deposit_Type" msprop:Generator_ColumnPropNameInTable="Fee_Deposit_TypeColumn" msprop:Generator_UserColumnName="Fee_Deposit_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Fee_Deposit_Code" msprop:Generator_ColumnVarNameInTable="columnFee_Deposit_Code" msprop:Generator_ColumnPropNameInRow="Fee_Deposit_Code" msprop:Generator_ColumnPropNameInTable="Fee_Deposit_CodeColumn" msprop:Generator_UserColumnName="Fee_Deposit_Code" type="xs:string" minOccurs="0" />
+              <xs:element name="FeeDepositDate" msprop:Generator_ColumnVarNameInTable="columnFeeDepositDate" msprop:Generator_ColumnPropNameInRow="FeeDepositDate" msprop:Generator_ColumnPropNameInTable="FeeDepositDateColumn" msprop:Generator_UserColumnName="FeeDepositDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Registration_No" msprop:Generator_ColumnVarNameInTable="columnRegistration_No" msprop:Generator_ColumnPropNameInRow="Registration_No" msprop:Generator_ColumnPropNameInTable="Registration_NoColumn" msprop:Generator_UserColumnName="Registration_No" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

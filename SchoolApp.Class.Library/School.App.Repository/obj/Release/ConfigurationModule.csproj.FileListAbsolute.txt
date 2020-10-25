@@ -1,0 +1,8 @@
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Release\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Release\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Release\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Release\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Release\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Release\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Release\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Release\ConfigurationModule.pdb

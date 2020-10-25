@@ -1,0 +1,5 @@
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Release\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Release\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Release\SqlServiceModule.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Release\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Release\SqlServiceModule.pdb

@@ -1,0 +1,1033 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43B97921-895B-4F2B-B3C3-76D9C2D9DB71}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eVidyalaya</RootNamespace>
+    <AssemblyName>eVidyalaya</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Microsoft\Desktop\SetUpSchoolSSM\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AEBF95BC50DF31F101226C6A9E2EBF52A6958FC6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SchoolUI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EPPlus, Version=4.5.2.1, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.2.1\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\itextsharp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=3.0.4.0, Culture=neutral, PublicKeyToken=5cded1a1a0a7b481, processorArchitecture=MSIL">
+      <HintPath>..\packages\DockPanelSuite.3.0.4\lib\net40\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light, Version=2.9.0.0, Culture=neutral, PublicKeyToken=5cded1a1a0a7b481, processorArchitecture=MSIL">
+      <HintPath>..\packages\DockPanelSuite.ThemeVS2012Light.2.10.0\lib\net40\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WeifenLuo.WinFormsUI.Docking.ThemeVS2015, Version=3.0.4.0, Culture=neutral, PublicKeyToken=5cded1a1a0a7b481, processorArchitecture=MSIL">
+      <HintPath>..\packages\DockPanelSuite.ThemeVS2015.3.0.4\lib\net40\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customization\Message_PopUp.cs" />
+    <Compile Include="Customization\SMS_Service_API.cs" />
+    <Compile Include="DataSets\Admission_Fee_DS.cs">
+      <DependentUpon>Admission_Fee_DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\Admission_Fee_DS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Admission_Fee_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\Advance_Pay_DS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Advance_Pay_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\DailyFeeCollection.cs">
+      <DependentUpon>DailyFeeCollection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\ExpenseReportDS.cs">
+      <DependentUpon>ExpenseReportDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\PurchasesFeeDS.cs">
+      <DependentUpon>PurchasesFeeDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\PurchasesFeeDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchasesFeeDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\StudentPromotionDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentPromotionDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\Student_Fee_Info_DS.cs">
+      <DependentUpon>Student_Fee_Info_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\Student_Fee_Info_DS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Student_Fee_Info_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\Advance_Pay_Report.cs">
+      <DependentUpon>Advance_Pay_Report.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reports\Admission_Fee_Report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Admission_Fee_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\PurchasesFeeReceiptReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchasesFeeReceiptReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\StudentPromotionReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentPromotionReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\Student_Fee_Info_Report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Student_Fee_Info_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\Sub_PurchasesFeeReceiptReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sub_PurchasesFeeReceiptReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Views\Common\AboutPoductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\AboutPoductForm.Designer.cs">
+      <DependentUpon>AboutPoductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Fee_Deposite_By_Date_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Fee_Deposite_By_Date_Form.Designer.cs">
+      <DependentUpon>Fee_Deposite_By_Date_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Fee_Generate_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Fee_Generate_Form.Designer.cs">
+      <DependentUpon>Fee_Generate_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Deposit_Fee_Multiple_Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Deposit_Fee_Multiple_Receipt.Designer.cs">
+      <DependentUpon>Deposit_Fee_Multiple_Receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Student_Deposited_List_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Student_Deposited_List_Form.Designer.cs">
+      <DependentUpon>Student_Deposited_List_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Search_Previous_Dues_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Search_Previous_Dues_Form.Designer.cs">
+      <DependentUpon>Search_Previous_Dues_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\AdmissionFeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\AdmissionFeeForm.Designer.cs">
+      <DependentUpon>AdmissionFeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\ClassFeeSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\ClassFeeSettingForm.Designer.cs">
+      <DependentUpon>ClassFeeSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customization\Common.cs" />
+    <Compile Include="Views\Common\ConnectionManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\ConnectionManagerForm.designer.cs">
+      <DependentUpon>ConnectionManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Common\CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\CustomMessageBox.Designer.cs">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Student_Fee_Setting_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Student_Fee_Setting_Form.Designer.cs">
+      <DependentUpon>Student_Fee_Setting_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\PurchasesFeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\PurchasesFeeForm.Designer.cs">
+      <DependentUpon>PurchasesFeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\Advance_Pay_Report_Viewer_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\Advance_Pay_Report_Viewer_Form.Designer.cs">
+      <DependentUpon>Advance_Pay_Report_Viewer_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\Admission_Report_Viewer_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\Admission_Report_Viewer_Form.Designer.cs">
+      <DependentUpon>Admission_Report_Viewer_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Advance_Fee_Paid_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Advance_Fee_Paid_Form.Designer.cs">
+      <DependentUpon>Advance_Fee_Paid_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\PurchasesFeeReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\PurchasesFeeReportForm.Designer.cs">
+      <DependentUpon>PurchasesFeeReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\School\DailyExpensesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\School\DailyExpensesForm.Designer.cs">
+      <DependentUpon>DailyExpensesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\ExpenseReportDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpenseReportDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\StudentDetailsByClassDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentDetailsByClassDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\StudentDuesDetailsByClass.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentDuesDetailsByClass.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Views\School\Reports\ExpensesReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\School\Reports\ExpensesReportForm.Designer.cs">
+      <DependentUpon>ExpensesReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Common\LeftNavForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\LeftNavForm.Designer.cs">
+      <DependentUpon>LeftNavForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\Student_Fee_info_Report_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\Student_Fee_info_Report_Form.Designer.cs">
+      <DependentUpon>Student_Fee_info_Report_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\ReportClassWiseDuesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\ReportClassWiseDuesForm.Designer.cs">
+      <DependentUpon>ReportClassWiseDuesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\School\Send_SMS_All_Class_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\School\Send_SMS_All_Class_Form.Designer.cs">
+      <DependentUpon>Send_SMS_All_Class_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\School\Send_SMS_To_Number_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\School\Send_SMS_To_Number_Form.Designer.cs">
+      <DependentUpon>Send_SMS_To_Number_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Student\Reports\ReportClassWiseStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Student\Reports\ReportClassWiseStudentForm.Designer.cs">
+      <DependentUpon>ReportClassWiseStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\ReportDailyFeeCollectionFeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\ReportDailyFeeCollectionFeeForm.Designer.cs">
+      <DependentUpon>ReportDailyFeeCollectionFeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Common\DatabaseBackUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\DatabaseBackUpForm.Designer.cs">
+      <DependentUpon>DatabaseBackUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DailyFeeCollection.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyFeeCollection.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\FeeDepositDS.cs">
+      <DependentUpon>FeeDepositDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\FeeDepositDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FeeDepositDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\MonthlyFeeReceiptDS.cs">
+      <DependentUpon>MonthlyFeeReceiptDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DataSets\MonthlyFeeReceiptDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MonthlyFeeReceiptDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\DepositFeeReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\DepositFeeReceipt.Designer.cs">
+      <DependentUpon>DepositFeeReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\FeeDepositForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\FeeDepositForm.Designer.cs">
+      <DependentUpon>FeeDepositForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\FeeSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\FeeSettingForm.Designer.cs">
+      <DependentUpon>FeeSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\FeeTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\FeeTypeForm.Designer.cs">
+      <DependentUpon>FeeTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\GenerateMonthlyFeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\GenerateMonthlyFeeForm.Designer.cs">
+      <DependentUpon>GenerateMonthlyFeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\MonthlyFeeReceiptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\Reports\MonthlyFeeReceiptForm.Designer.cs">
+      <DependentUpon>MonthlyFeeReceiptForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DailyExpenseReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyExpenseReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\DailyFeeCollectionReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyFeeCollectionReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\FeeDepositReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FeeDepositReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\MonthlyFeeReceipt.cs">
+      <DependentUpon>MonthlyFeeReceipt.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\StudentDetailsByClassReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentDetailsByClassReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\StudentDuesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentDuesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\Sub_FeeDepositReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sub_FeeDepositReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Reports\Sub_MonthlyFeeReceiptFeeType.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sub_MonthlyFeeReceiptFeeType.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Views\School\SchoolDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\School\SchoolDetailsForm.Designer.cs">
+      <DependentUpon>SchoolDetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Student\Reports\ReportStudentPromotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Student\Reports\ReportStudentPromotion.Designer.cs">
+      <DependentUpon>ReportStudentPromotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Student\StudentAdmissionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Student\StudentAdmissionForm.Designer.cs">
+      <DependentUpon>StudentAdmissionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Student\StudentFineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Student\StudentFineForm.Designer.cs">
+      <DependentUpon>StudentFineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Student\StudentPromotionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Student\StudentPromotionForm.Designer.cs">
+      <DependentUpon>StudentPromotionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fee\TransportChargesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Fee\TransportChargesForm.Designer.cs">
+      <DependentUpon>TransportChargesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Common\UIParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\UIParent.Designer.cs">
+      <DependentUpon>UIParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Common\UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Common\UserLogin.designer.cs">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Student\Student_TC_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Student\Student_TC_Form.Designer.cs">
+      <DependentUpon>Student_TC_Form.cs</DependentUpon>
+    </Compile>
+    <Content Include="AppImage\eVidyalaya.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppImage\help.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="favicon.ico" />
+    <Content Include="TempFolder\temp.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\PurchasesFeeReceiptReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PurchasesFeeReceiptReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\Sub_PurchasesFeeReceiptReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Sub_PurchasesFeeReceiptReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\StudentPromotionReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentPromotionReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\Admission_Fee_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Admission_Fee_Report.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\Advance_Pay_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Advance_Pay_Report.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\Student_Fee_Info_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Student_Fee_Info_Report.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="Views\Common\AboutPoductForm.resx">
+      <DependentUpon>AboutPoductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Fee_Deposite_By_Date_Form.resx">
+      <DependentUpon>Fee_Deposite_By_Date_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Fee_Generate_Form.resx">
+      <DependentUpon>Fee_Generate_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Deposit_Fee_Multiple_Receipt.resx">
+      <DependentUpon>Deposit_Fee_Multiple_Receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Student_Deposited_List_Form.resx">
+      <DependentUpon>Student_Deposited_List_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Search_Previous_Dues_Form.resx">
+      <DependentUpon>Search_Previous_Dues_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\AdmissionFeeForm.resx">
+      <DependentUpon>AdmissionFeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\ClassFeeSettingForm.resx">
+      <DependentUpon>ClassFeeSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Common\ConnectionManagerForm.resx">
+      <DependentUpon>ConnectionManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Common\CustomMessageBox.resx">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Student_Fee_Setting_Form.resx">
+      <DependentUpon>Student_Fee_Setting_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\PurchasesFeeForm.resx">
+      <DependentUpon>PurchasesFeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\Advance_Pay_Report_Viewer_Form.resx">
+      <DependentUpon>Advance_Pay_Report_Viewer_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\Admission_Report_Viewer_Form.resx">
+      <DependentUpon>Admission_Report_Viewer_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Advance_Fee_Paid_Form.resx">
+      <DependentUpon>Advance_Fee_Paid_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\PurchasesFeeReportForm.resx">
+      <DependentUpon>PurchasesFeeReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\School\DailyExpensesForm.resx">
+      <DependentUpon>DailyExpensesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\School\Reports\ExpensesReportForm.resx">
+      <DependentUpon>ExpensesReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Common\LeftNavForm.resx">
+      <DependentUpon>LeftNavForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\Student_Fee_info_Report_Form.resx">
+      <DependentUpon>Student_Fee_info_Report_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\ReportClassWiseDuesForm.resx">
+      <DependentUpon>ReportClassWiseDuesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\School\Send_SMS_All_Class_Form.resx">
+      <DependentUpon>Send_SMS_All_Class_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\School\Send_SMS_To_Number_Form.resx">
+      <DependentUpon>Send_SMS_To_Number_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Student\Reports\ReportClassWiseStudentForm.resx">
+      <DependentUpon>ReportClassWiseStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\ReportDailyFeeCollectionFeeForm.resx">
+      <DependentUpon>ReportDailyFeeCollectionFeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Common\DatabaseBackUpForm.resx">
+      <DependentUpon>DatabaseBackUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\DepositFeeReceipt.resx">
+      <DependentUpon>DepositFeeReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\FeeDepositForm.resx">
+      <DependentUpon>FeeDepositForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\FeeSettingForm.resx">
+      <DependentUpon>FeeSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\FeeTypeForm.resx">
+      <DependentUpon>FeeTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\GenerateMonthlyFeeForm.resx">
+      <DependentUpon>GenerateMonthlyFeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\Reports\MonthlyFeeReceiptForm.resx">
+      <DependentUpon>MonthlyFeeReceiptForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="Reports\FeeDepositReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FeeDepositReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\MonthlyFeeReceipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MonthlyFeeReceipt.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\Sub_FeeDepositReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Sub_FeeDepositReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\Sub_MonthlyFeeReceiptFeeType.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Sub_MonthlyFeeReceiptFeeType.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\DailyFeeCollectionReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyFeeCollectionReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\StudentDetailsByClassReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentDetailsByClassReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\StudentDuesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentDuesReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\DailyExpenseReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyExpenseReport.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="Views\School\SchoolDetailsForm.resx">
+      <DependentUpon>SchoolDetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Student\Reports\ReportStudentPromotion.resx">
+      <DependentUpon>ReportStudentPromotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Student\StudentAdmissionForm.resx">
+      <DependentUpon>StudentAdmissionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Student\StudentFineForm.resx">
+      <DependentUpon>StudentFineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Student\StudentPromotionForm.resx">
+      <DependentUpon>StudentPromotionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fee\TransportChargesForm.resx">
+      <DependentUpon>TransportChargesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Common\UIParent.resx">
+      <DependentUpon>UIParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Common\UserLogin.resx">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Student\Student_TC_Form.resx">
+      <DependentUpon>Student_TC_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="CRRuntime_64bit_13_0_23.msi" />
+    <None Include="DataSets\Admission_Fee_DS.xsc">
+      <DependentUpon>Admission_Fee_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\Admission_Fee_DS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Admission_Fee_DS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\Admission_Fee_DS.xss">
+      <DependentUpon>Admission_Fee_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\Advance_Pay_DS.xsc">
+      <DependentUpon>Advance_Pay_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\Advance_Pay_DS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Advance_Pay_DS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\Advance_Pay_DS.xss">
+      <DependentUpon>Advance_Pay_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\DailyFeeCollection.xsc">
+      <DependentUpon>DailyFeeCollection.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\DailyFeeCollection.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DailyFeeCollection.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\DailyFeeCollection.xss">
+      <DependentUpon>DailyFeeCollection.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\ExpenseReportDS.xsc">
+      <DependentUpon>ExpenseReportDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\ExpenseReportDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ExpenseReportDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\ExpenseReportDS.xss">
+      <DependentUpon>ExpenseReportDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\FeeDepositDS.xsc">
+      <DependentUpon>FeeDepositDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\FeeDepositDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FeeDepositDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\FeeDepositDS.xss">
+      <DependentUpon>FeeDepositDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\MonthlyFeeReceiptDS.xsc">
+      <DependentUpon>MonthlyFeeReceiptDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\MonthlyFeeReceiptDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MonthlyFeeReceiptDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\MonthlyFeeReceiptDS.xss">
+      <DependentUpon>MonthlyFeeReceiptDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\PurchasesFeeDS.xsc">
+      <DependentUpon>PurchasesFeeDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\PurchasesFeeDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PurchasesFeeDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\PurchasesFeeDS.xss">
+      <DependentUpon>PurchasesFeeDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\StudentDetailsByClassDS.xsc">
+      <DependentUpon>StudentDetailsByClassDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\StudentDetailsByClassDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentDetailsByClassDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\StudentDetailsByClassDS.xss">
+      <DependentUpon>StudentDetailsByClassDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\StudentDuesDetailsByClass.xsc">
+      <DependentUpon>StudentDuesDetailsByClass.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\StudentDuesDetailsByClass.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentDuesDetailsByClass.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\StudentDuesDetailsByClass.xss">
+      <DependentUpon>StudentDuesDetailsByClass.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\StudentPromotionDS.xsc">
+      <DependentUpon>StudentPromotionDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\StudentPromotionDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentPromotionDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\StudentPromotionDS.xss">
+      <DependentUpon>StudentPromotionDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DataSets\Student_Fee_Info_DS.xsc">
+      <DependentUpon>Student_Fee_Info_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="DataSets\Student_Fee_Info_DS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Student_Fee_Info_DS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="DataSets\Student_Fee_Info_DS.xss">
+      <DependentUpon>Student_Fee_Info_DS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="pre-build.bat" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+    <Folder Include="Reports\PDFReport\" />
+    <Folder Include="Resources\" />
+    <Folder Include="SettingsFiles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SchoolApp.Class.Library\School.App.Models\School.App.Models.csproj">
+      <Project>{1ba75e47-0614-4696-b2bd-bfce1af60f6d}</Project>
+      <Name>School.App.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SchoolApp.Class.Library\School.App.Repository\School.App.Repository.csproj">
+      <Project>{cb9f5e29-6a58-443a-bb38-109355476355}</Project>
+      <Name>School.App.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,115 @@
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CoreCompileInputs.cache
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CopyComplete
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojAssemblyReference.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CoreCompileInputs.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CopyComplete
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojAssemblyReference.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CopyComplete
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\ConfigurationModule.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SchoolModels.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\bin\Debug\SqlServiceModule.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csprojAssemblyReference.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CoreCompileInputs.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.csproj.CopyComplete
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\ConfigurationModule\obj\Debug\ConfigurationModule.pdb

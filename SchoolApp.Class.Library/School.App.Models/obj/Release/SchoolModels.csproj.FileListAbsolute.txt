@@ -1,0 +1,4 @@
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Release\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\bin\Release\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Release\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SchoolModels\obj\Release\SchoolModels.pdb

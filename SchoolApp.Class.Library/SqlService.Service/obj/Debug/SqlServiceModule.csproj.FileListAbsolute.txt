@@ -1,0 +1,159 @@
+D:\6. Projects\Tutorial Projects WebForms\GridViewJqueryJson\Modules\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\6. Projects\Tutorial Projects WebForms\GridViewJqueryJson\Modules\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\6. Projects\Tutorial Projects WebForms\GridViewJqueryJson\Modules\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\6. Projects\Tutorial Projects WebForms\GridViewJqueryJson\Modules\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\6. Projects\Tutorial Projects WebForms\GridViewJqueryJson\Modules\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+D:\6. Projects\Tutorial Project MVC\ConsultancyMVC5\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\6. Projects\Tutorial Project MVC\ConsultancyMVC5\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\6. Projects\Tutorial Project MVC\ConsultancyMVC5\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+D:\6. Projects\Tutorial Project MVC\ConsultancyMVC5\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\6. Projects\Tutorial Project MVC\ConsultancyMVC5\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\6. Projects\Tutorial Project MVC\Consultancy\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\6. Projects\Tutorial Project MVC\Consultancy\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\6. Projects\Tutorial Project MVC\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\6. Projects\Tutorial Project MVC\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\User\Desktop\Projects\Consultancy\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\User\Desktop\Projects\Consultancy\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\User\Desktop\Projects\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\User\Desktop\Projects\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+G:\Development\Consultancy\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+G:\Development\Consultancy\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+G:\Development\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+G:\Development\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\6. Projects\Tutorial Project MVC\Consultancy\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.xml
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.xml
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.xml
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.xml
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\extract\Consultancy[17May2015]\Consultancy[17May2015]\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.xml
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.xml
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.xml
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.xml
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\Sandeep_Kumar\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Helpers.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Mvc.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.Razor.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoution\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CoreCompileInputs.cache
+D:\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CopyComplete
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojAssemblyReference.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CoreCompileInputs.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CopyComplete
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojAssemblyReference.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CopyComplete
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\bin\Debug\SqlServiceModule.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csprojAssemblyReference.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CoreCompileInputs.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.csproj.CopyComplete
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\ClassLibrary\SqlServiceModule\obj\Debug\SqlServiceModule.pdb

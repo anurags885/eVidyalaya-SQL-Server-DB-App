@@ -1,0 +1,1272 @@
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.exe
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\Sandeep_Kumar\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.frmStudentRegistration.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.FeeSetting.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentFeeModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentFeeModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentFeeModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\bin\Debug\StudentFeeModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\itextsharp.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\stdole.dll
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\itextsharp.xml
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\SchoolSoution15-06-2017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.LoadingPanelForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\TempFolder\temp.txt
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.application
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\itextsharp.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\stdole.dll
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\itextsharp.xml
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.application
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\sandeep1.kumar\Desktop\WIN DEMO\SchoolSoution03072017\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\TempFolder\temp.txt
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.application
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\FlashControlV71.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\itextsharp.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\stdole.dll
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\itextsharp.xml
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.LoadingPanelForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+C:\Users\Microsoft\Desktop\SchoolSoution03-JULY-2017OFFICE\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.application
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.LoadingPanelForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\TempFolder\temp.txt
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.config
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.application
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\FlashControlV71.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\itextsharp.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\StudentModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\stdole.dll
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\itextsharp.xml
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\StudentModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.application
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.pdb
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+C:\Users\Microsoft\Desktop\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\PartialFeeReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\PartialFeeReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.application
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\FlashControlV71.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\itextsharp.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\StudentModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\stdole.dll
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\itextsharp.xml
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\StudentFeeModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\StudentModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.CustomMessageBox.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ExpensesReportForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.LeftNavForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.PartialFeeReportForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.PartialFeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseDuesForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseStudentForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.LoadingPanelForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.application
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSoution\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.CustomMessageBox.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.ExpensesReportForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.LeftNavForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.PartialFeeReportForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.PartialFeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseDuesForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseStudentForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.LoadingPanelForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\PartialFeeReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\PartialFeeReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\PartialFeeReportDS.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolUI.application
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\FlashControlV71.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\itextsharp.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\StudentFeeModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\StudentModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\stdole.dll
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\itextsharp.xml
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\StudentFeeModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\StudentModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.application
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSoutionNewUI\SchoolUI\obj\Debug\SchoolUI.AboutPoductForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\AppImage\help.png
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\AppImage\LoadingPanel.gif
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.application
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ConfigurationModule.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\EPPlus.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\FlashControlV71.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\itextsharp.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolModels.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentFeeModule.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentModule.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SqlServiceModule.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\stdole.dll
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ConfigurationModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\EPPlus.xml
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\itextsharp.xml
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolModels.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentFeeModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SqlServiceModule.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.WaitForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AboutPoductForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Generate_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Deposit_Fee_Multiple_Receipt.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Deposited_List_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Search_Previous_Dues_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AdmissionFeeForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.CustomMessageBox.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_Setting_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeePurchasesItem.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.PurchasesFeeReportForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ExpensesReportForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.LeftNavForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_info_Report_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseDuesForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseStudentForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportStudentPromotion.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_TC_Form.resources
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.Cache
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.application
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csprojAssemblyReference.cache
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CoreCompileInputs.cache
+D:\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CopyComplete
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\AppImage\help.png
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\AppImage\LoadingPanel.gif
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.application
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ConfigurationModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\EPPlus.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\FlashControlV71.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\itextsharp.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolModels.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentFeeModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SqlServiceModule.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\stdole.dll
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ConfigurationModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\EPPlus.xml
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\itextsharp.xml
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolModels.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentFeeModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SqlServiceModule.pdb
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csprojAssemblyReference.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.WaitForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AboutPoductForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Generate_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Deposit_Fee_Multiple_Receipt.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Deposited_List_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Search_Previous_Dues_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AdmissionFeeForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.CustomMessageBox.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_Setting_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeePurchasesItem.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.PurchasesFeeReportForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ExpensesReportForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.LeftNavForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_info_Report_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseDuesForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseStudentForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportStudentPromotion.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_TC_Form.resources
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CoreCompileInputs.cache
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.application
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CopyComplete
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe
+D:\This PC\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\AppImage\help.png
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\AppImage\LoadingPanel.gif
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.application
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ConfigurationModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\EPPlus.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\itextsharp.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolModels.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentFeeModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SqlServiceModule.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ConfigurationModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\EPPlus.xml
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\itextsharp.xml
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SchoolModels.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentFeeModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\StudentModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\SqlServiceModule.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csprojAssemblyReference.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.WaitForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AboutPoductForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Generate_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Deposit_Fee_Multiple_Receipt.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Deposited_List_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Search_Previous_Dues_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AdmissionFeeForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.CustomMessageBox.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_Setting_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeePurchasesItem.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.PurchasesFeeReportForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ExpensesReportForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.LeftNavForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_info_Report_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseDuesForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseStudentForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportStudentPromotion.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_TC_Form.resources
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.application
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CopyComplete
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\FlashControlV71.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Development\Projects\Windows Projects\SchoolSSM\SchoolUI\bin\Debug\stdole.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csprojAssemblyReference.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.WaitForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AboutPoductForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Deposite_By_Date_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Fee_Generate_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Deposit_Fee_Multiple_Receipt.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Deposited_List_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Search_Previous_Dues_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.AdmissionFeeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ClassFeeSettingForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ConnectionManagerForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.CustomMessageBox.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_Setting_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeePurchasesItem.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Advance_Pay_Report_Viewer_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Reports.Admission_Report_Viewer_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Views.Fee.Advance_Fee_Paid_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.PurchasesFeeReportForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DailyExpensesForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ExpensesReportForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.LeftNavForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_Fee_info_Report_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseDuesForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportClassWiseStudentForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportDailyFeeCollectionFeeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DatabaseBackUpForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.DepositFeeReceipt.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeDepositForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeSettingForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.FeeTypeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.GenerateMonthlyFeeForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.MonthlyFeeReceiptForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Sample.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.SchoolDetailsForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.ReportStudentPromotion.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentAdmissionForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Properties.Resources.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentFineForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.StudentPromotionForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.TransportChargesForm.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UIParent.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.UserLogin.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.Student_TC_Form.resources
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.GenerateResource.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CoreCompileInputs.cache
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\AppImage\help.png
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\TempFolder\temp.txt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.rpt
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsd
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\AppImage\LoadingPanel.gif
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Advance_Pay_Report.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Admission_Fee_Report.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\PurchasesFeeReceiptReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentPromotionReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Student_Fee_Info_Report.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_PurchasesFeeReceiptReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.Designer.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyExpenseReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\DailyFeeCollectionReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\FeeDepositReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\MonthlyFeeReceipt.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDetailsByClassReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\StudentDuesReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_FeeDepositReport.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\Reports\Sub_MonthlyFeeReceiptFeeType.cs
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Admission_Fee_DS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Advance_Pay_DS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\DailyFeeCollection.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\ExpenseReportDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\FeeDepositDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\MonthlyFeeReceiptDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\PurchasesFeeDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDetailsByClassDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentDuesDetailsByClass.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\StudentPromotionDS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xsc
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\DataSets\Student_Fee_Info_DS.xss
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.config
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe.manifest
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.application
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.exe
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SchoolUI.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\EPPlus.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\itextsharp.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Models.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Repository.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012Light.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SqlService.Service.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\stdole.dll
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Repository.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\School.App.Models.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\EPPlus.xml
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\itextsharp.xml
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\bin\Debug\SqlService.Service.pdb
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe.manifest
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.application
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.csproj.CopyComplete
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.exe
+D:\BackUp2020\RecoverFiles\SchoolSSM\SchoolUI\obj\Debug\SchoolUI.pdb
